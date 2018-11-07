@@ -32,4 +32,4 @@
 <li>Star this repository and create a project with it :)</li>
 
 <h2>How to contact me</h2>
-<p>Email: <i>maryamolaidee95@gmail.com</i> or on twitter: <i>@browwnn_sugar</i></p>
+<p>Email: <i>maryamolaide95@gmail.com</i> or on twitter: <i>@browwnn_sugar</i></p>
