@@ -1,4 +1,4 @@
-<h1>Getting started</h1>
+<h1>Getting started with Freelancer-bl</h1>
 <h2>Installation</h2>
 <p>Please check the official laravel installation guide for server requirements before you start. Official Documentation</p>
 
