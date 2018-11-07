@@ -27,3 +27,9 @@
 
 <pre>php artisan serve</pre>
 <p>You can now access the server at http://localhost:8000</p>
+
+<h2>How to thank me</h2>
+<li>Star this repository and create a project with it :)</li>
+
+<h2>How to contact me</h2>
+<p>Email: <i>maryamolaidee95@gmail.com</i> or on twitter: <i>@browwnn_sugar</i></p>
